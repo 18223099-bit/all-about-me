@@ -1,7 +1,6 @@
 # Selamat Berjumpa {.unnumbered}
-
 ## MyWork
-Menghadapai era Artificial Intelligence, rekaysawan mendaspat kesempatan besar untuk membangun artefak yang meberdayakan manusia. Salah satu [masalah terbesar](./images/top10.pdf) ada di bidang pendidikan.
+Halo Menghadapai era Artificial Intelligence, rekaysawan mendaspat kesempatan besar untuk membangun artefak yang meberdayakan manusia. Salah satu [masalah terbesar](./images/top10.pdf) ada di bidang pendidikan.
 
 :::{#fig-TISE}
 ![TISE](images/TISE.png)
