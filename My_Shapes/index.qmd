@@ -13,7 +13,7 @@ Sumber [VIA assessment](StrengthsProfile-fel-d%202.pdf)
 | Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
 | ----------------------- | ------------------------------ | ---------: | ----- |
 | Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |     5      |  Seluruh aspek SHAPE dibahas secara terpisah dan jelas, mencakup Spiritual Gifts, Heart, Abilities, Personality, dan Experiences, masing-masing dengan refleksi diri yang spesifik.     |
-| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |            |       |
+| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |      5     |Pernyataan misi selaras dengan kekuatan (S), nilai yang diperjuangkan (H), kemampuan yang digunakan (A), gaya pribadi (P), serta pengalaman pembentuk (E), tanpa adanya kontradiksi antarbagian.       |
 | Narasi 90 detik         | ringkas, kuat, mengundang aksi |            |       |
 | Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
 
@@ -25,7 +25,34 @@ Sumber [VIA assessment](StrengthsProfile-fel-d%202.pdf)
 
 
 
-## Piagam Diri — Armein Z. R. Langi
+## Piagam Diri — Felissha Dunell
+
+PIAGAM DIRI SAYA
+
+Pernyataan Misi Saya
+
+Saya adalah pribadi reflektif dan empatik yang menjunjung kejujuran, keadilan, dan kepedulian dalam membangun relasi yang aman dan bermakna. Saya berkomitmen menggunakan kemampuan berpikir kritis, kecerdasan sosial, dan kepekaan moral untuk bertumbuh secara sadar serta memberi dampak positif dalam kehidupan akademik, relasi personal, dan komunitas.
+
+S — Signature Strengths (kekuatan khas)
+
+Kejujuran (Honesty), Kebaikan (Kindness), Keadilan (Fairness), Perspektif (Perspective), Penilaian Kritis (Judgment), Kecerdasan Sosial (Social Intelligence), Humor, dan Kepemimpinan.
+(Sumber: VIA Character Strengths Profile)
+
+H — Heart (nilai & panggilan)
+
+Saya digerakkan oleh nilai relasi yang jujur dan aman, empati terhadap sesama, pencarian makna hidup, serta keinginan untuk menciptakan ruang yang mendukung pertumbuhan emosional dan moral.
+
+A — Abilities (kemampuan & keterampilan)
+
+Berpikir kritis dan objektif, memahami dinamika emosi dan sosial, bekerja sama serta memimpin dalam kelompok, dan mengembangkan ide secara kreatif melalui proses belajar berkelanjutan.
+
+P — Personality (gaya pribadi)
+
+Reflektif, berhati-hati dalam mengambil keputusan, hangat dalam interaksi sosial, rendah hati, dan berorientasi pada harmoni serta keadilan dalam relasi.
+
+E — Experiences (pengalaman pembentuk)
+
+Pengalaman menghadapi konflik interpersonal dan tekanan akademik membentuk kemampuan saya dalam memaafkan, mengelola emosi, serta bertahan menyelesaikan tanggung jawab secara dewasa.
 
 
 
