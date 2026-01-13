@@ -1,4 +1,6 @@
 ## UAS-5 My Professional Reviews
 Untuk melakukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
 
-Link ke file skoring ada [di sini](~%24YEAH_UAS-5_Skor.xlsx).
+Link ke file skoring ada [di sini](../YEAH_UAS-5_Skor.xlsx)
+
+
