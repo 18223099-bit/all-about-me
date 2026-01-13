@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](../All_About_me/IMG_6475.jpg){width=350}
+![About Me](../All_About_me/IMG_6475.jpg){width=300}
 
 Halo! Nama saya Felissha. Saya adalah seorang mahasiswa Sistem dan Teknologi Informasi yang saat ini menempuh pendidikan di Institut Teknologi Bandung (ITB) dan berasal dari Medan. Saya bukan tipe orang yang terlalu suka menceritakan diri saya kepada orang lain. Terlepas dari itu, saya adalah pribadi yang reflektif dan terbiasa memahami diri melalui pengalaman yang saya jalani.
 
