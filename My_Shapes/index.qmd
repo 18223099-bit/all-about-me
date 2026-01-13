@@ -101,7 +101,7 @@ Laporan ini saya harapkan dapat menjadi sarana refleksi diri sekaligus dasar bag
 ## Piagam Diri 
 
 Misi Hidup :
-Menumbuhkan ruang belajar dan relasi yang jujur, aman, dan bermakna—tempat manusia bisa berpikir terbuka, merasa tanpa takut, dan bertumbuh tanpa harus berpura-pura kuat.
+Menumbuhkan ruang belajar dan relasi yang jujur, aman, dan bermakna, tempat manusia bisa berpikir terbuka, merasa tanpa takut, dan bertumbuh tanpa harus berpura-pura kuat.
 
 Nilai Inti :
 Kejujuran sebagai dasar hadir apa adanya; empati dan kebaikan dalam memahami manusia sebagai manusia, bukan sekadar peran; keadilan dan perspektif untuk melihat lebih dari satu sisi sebelum menarik kesimpulan; pencarian makna dan harapan dalam proses, bukan hanya hasil; serta keberanian untuk bertumbuh dengan menghadapi, bukan menghindari.
@@ -113,7 +113,7 @@ Kompas Keputusan :
 Setiap keputusan saya arahkan pada pertanyaan: apakah ini jujur pada diri sendiri, adil dalam mempertimbangkan berbagai sudut pandang, manusiawi dalam prosesnya, memberi ruang bagi pertumbuhan alih-alih penyangkalan, serta membawa dampak yang membantu diri saya dan orang lain bertumbuh dengan sehat.
 
 Janji Diri :
-Saya berkomitmen untuk hadir dengan empati, berpikir terbuka tanpa tergesa-gesa, dan memberi ruang pada proses—baik dalam belajar, relasi, maupun pengambilan keputusan—agar perubahan yang terjadi nyata, jujur, dan berkelanjutan.
+Saya berkomitmen untuk hadir dengan empati, berpikir terbuka tanpa tergesa-gesa, dan memberi ruang pada proses, baik dalam belajar, relasi, maupun pengambilan keputusan, agar perubahan yang terjadi nyata, jujur, dan berkelanjutan.
 
 Batasan Pribadi :
 Saya menolak proses yang menekan emosi, meniadakan kejujuran, atau memaksa terlihat “baik-baik saja”; tidak mengorbankan nilai dan kesehatan batin demi terlihat kuat atau cepat selesai; serta menjaga keseimbangan antara refleksi, aksi, dan istirahat.
@@ -165,5 +165,5 @@ Due: T-90 hari.
 | Narasi 90 detik         | ringkas, kuat, mengundang aksi |    5        |Narasi 90 detik ini ringkas, kuat, dan terasa hidup karena menyampaikan identitas, arah, dan nilai pribadi secara jelas serta mengundang pendengar untuk terhubung dan bergerak bersama       |
 | Aksi 90 hari |  rencana SMART   |      5      |  Setiap aksi memiliki tujuan jelas, hasil terukur, tenggat realistis, dan selaras dengan kondisi serta arah pengembangan diri dalam 90 hari.     |
 
-**Total (maks 20):** [ ]
-**Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
+**Total (maks 20):** [20]
+**Tingkat:** A (≥85%) 
