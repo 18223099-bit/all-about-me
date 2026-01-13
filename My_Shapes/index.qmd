@@ -12,7 +12,7 @@ Sumber [VIA assessment](StrengthsProfile-fel-d%202.pdf)
 
 | Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
 | ----------------------- | ------------------------------ | ---------: | ----- |
-| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |  5         |  Seluruh komponen SHAPE terisi dan dibahas secara terpisah. Spiritual Gifts (Honesty, Kindness, Fairness, Perspective), Heart (nilai relasi, makna hidup, motivasi), Abilities (Judgment, Social Intelligence, Leadership, Creativity), Personality (Humor, Prudence, Humility), dan Experiences (pengalaman konflik serta tekanan akademik yang membentuk Forgiveness dan Self-Regulation)     |
+| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |     5      |  Seluruh aspek SHAPE dibahas secara terpisah dan jelas, mencakup Spiritual Gifts, Heart, Abilities, Personality, dan Experiences, masing-masing dengan refleksi diri yang spesifik.     |
 | Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |            |       |
 | Narasi 90 detik         | ringkas, kuat, mengundang aksi |            |       |
 | Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
