@@ -2,7 +2,7 @@
 
 
 
-Sumber [VIA assessment](StrengthsProfile-fel-d%202.pdf)
+## Sumber [VIA assessment](StrengthsProfile-fel-d%202.pdf)
 
 ---
 
@@ -139,7 +139,23 @@ Saya percaya perubahan yang bermakna lahir dari proses yang jujur, relasi yang s
 
 ---
 
-## Narasi Diri (versi panjang, 3–5 paragraf)
+## Rencana Aksi 90 Hari (SMART)
+
+Merampungkan seluruh website UTS (All About Me, My Songs, My Stories, My SHAPE) end-to-end.
+Outcome: seluruh halaman ter-render rapi di GitHub Pages dengan konten final sesuai rubrik penilaian.
+Due: T-14 hari.
+
+Memfinalkan Piagam Diri dan Narasi Diri 90 Detik sebagai kompas pribadi.
+Outcome: 1 piagam diri dan 1 narasi 90 detik yang konsisten nilai, jelas arah hidupnya, dan siap digunakan sebagai rujukan refleksi maupun presentasi.
+Due: T-14 hari.
+
+Membangun ritme belajar dan hidup yang lebih berkelanjutan.
+Outcome: pola mingguan belajar–istirahat–refleksi berjalan stabil minimal 8 dari 12 minggu.
+Due: T-90 hari.
+
+Menjaga praktik refleksi pribadi secara ringan dan berkelanjutan.
+Outcome: refleksi singkat tertulis dilakukan rutin (minimal 1× per minggu) sebagai alat evaluasi diri, bukan produk publikasi.
+Due: T-90 hari.
 
 
 
@@ -150,7 +166,7 @@ Saya percaya perubahan yang bermakna lahir dari proses yang jujur, relasi yang s
 | Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |     5      |  Seluruh aspek SHAPE dibahas secara terpisah dan jelas, mencakup Spiritual Gifts, Heart, Abilities, Personality, dan Experiences, masing-masing dengan refleksi diri yang spesifik     |
 | Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |      5     |Piagam diri ini konsisten, personal, dan utuh dari nilai, peran, dan arah hidupnya saling menguatkan serta jelas berasal dari refleksi diri yang nyata, bukan pernyataan umum       |
 | Narasi 90 detik         | ringkas, kuat, mengundang aksi |    5        |Narasi 90 detik ini ringkas, kuat, dan terasa hidup karena menyampaikan identitas, arah, dan nilai pribadi secara jelas serta mengundang pendengar untuk terhubung dan bergerak bersama       |
-| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
+| Aksi 90 hari | tautan bukti & rencana SMART   |      5      |  Setiap aksi memiliki tujuan jelas, hasil terukur, tenggat realistis, dan selaras dengan kondisi serta arah pengembangan diri dalam 90 hari.     |
 
 **Total (maks 20):** [ ]
 **Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
