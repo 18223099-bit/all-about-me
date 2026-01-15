@@ -4,7 +4,7 @@
 MY KNOWLEDGE
 
 
-Secara ilmiah, Artificial Intelligence bekerja dengan mengenali pola dari data untuk membantu proses pengambilan keputusan. Dalam konteks sosial, AI tidak harus bergantung pada data ekonomi formal saja, karena data sosial dan layanan publik juga dapat memberikan gambaran mengenai kondisi kerentanan masyarakat. Hal ini menjelaskan mengapa AI relevan digunakan sebagai pendukung sistem dalam memahami persoalan kemiskinan.
+Secara ilmiah, Artificial Intelligence bekerja dengan mengenali pola dari data untuk membantu proses pengambilan keputusan. Dalam konteks sosial, AI tidak harus bergantung pada data ekonomi formal saja, karena data sosial dan layanan publik juga dapat memberikan gambaran mengenai kondisi kerentanan masyarakat. Hal ini menjelaskan mengapa AI relevan digunakan sebagai pendukung sistem dalam memahami persoalan kemiskinan. 
 
 Dalam bidang Sistem dan Teknologi Informasi, integrasi data merupakan konsep kunci. Banyak permasalahan muncul bukan karena data tidak ada, melainkan karena data tersebar dan tidak terhubung. Sistem informasi yang terintegrasi memungkinkan data dari berbagai layanan publik dibaca secara bersama-sama sehingga menghasilkan pemahaman yang lebih menyeluruh. AI membantu membaca keterkaitan antar data tersebut, bukan menggantikan peran analisis manusia.
 
