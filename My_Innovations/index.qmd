@@ -12,4 +12,4 @@ Kebaruan inovasi ini terletak pada cara Artificial Intelligence digunakan sebaga
 
 Dari sisi desain, hasil analisis AI disajikan dalam bentuk rekomendasi dan visualisasi yang mudah dipahami, sehingga mendukung pengambilan keputusan oleh pembuat kebijakan dan organisasi sosial. Teknologi berfungsi sebagai pendukung, sementara keputusan akhir tetap berada pada manusia.
 
-Dampak yang diharapkan dari inovasi ini adalah meningkatnya ketepatan sasaran dalam perencanaan bantuan sosial dan kebijakan publik. Dengan pemahaman yang lebih dini dan menyeluruh terhadap kerentanan masyarakat, intervensi dapat dirancang secara lebih tepat, preventif, dan berkelanjutan...
+Dampak yang diharapkan dari inovasi ini adalah meningkatnya ketepatan sasaran dalam perencanaan bantuan sosial dan kebijakan publik. Dengan pemahaman yang lebih dini dan menyeluruh terhadap kerentanan masyarakat, intervensi dapat dirancang secara lebih tepat, preventif, dan berkelanjutan.
