@@ -5,6 +5,6 @@
 
 **Selamat membaca..!!**   
 
-![](IMG_0256.jpg){width=300} 
+![Yay](./IMG_0256.jpg){width=300} 
 
 
